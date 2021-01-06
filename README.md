@@ -6,7 +6,7 @@ Deeplearning : Sepecialization( Continues)
     
     1. Neural Networks and Deep Learning 
     
- 	  2 Improving Neural Networks and Hyperparameter Optimization 
+ 	2 Improving Neural Networks and Hyperparameter Optimization 
     
   	3.Structuring Machine Learning Projects
     
@@ -17,7 +17,7 @@ Deeplearning : Sepecialization( Continues)
 
 Harvard 
  	
-    1.PH525.5x: Introduction to Bioconductor
+      1.PH525.5x: Introduction to Bioconductor
     
  	  2.PH525.1x: Statistics and R
     
@@ -26,7 +26,7 @@ Harvard
 
 John Hopkin University 
  	
-    1.Genomic Data Science with Galaxy 
+      1.Genomic Data Science with Galaxy 
     
  	  2.Introduction to Genomic Technologies 
     
@@ -34,7 +34,7 @@ John Hopkin University
 
 University of California 
  	
-    1.Genes Comparison 
+      1.Genes Comparison 
     
  	  2.Algorithmic Toolbox 
 
