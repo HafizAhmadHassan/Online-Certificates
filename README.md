@@ -1,5 +1,5 @@
 # Online-Certificates
-I have completed some online certificates by different Universities
+I have completed some online certificates by different Universities. See Verified Certificates in the link provided
 
 
 Deeplearning : Sepecialization( Continues)
