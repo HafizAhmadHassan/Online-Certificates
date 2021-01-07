@@ -6,6 +6,7 @@ Deeplearning : Sepecialization( Continues)
     
    1.  [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/BXQHNN8RD5KY)
     
+   
    2  [Improving Neural Networks and Hyperparameter Optimization](https://www.coursera.org/account/accomplishments/verify/V9GZH26M63HJ)
     
    3.  [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/TXZHXKAE6GPQ)
