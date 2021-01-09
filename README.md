@@ -11,9 +11,9 @@ Deeplearning : Sepecialization( Continues)
     
    3.  [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/TXZHXKAE6GPQ)
         
-   4. [Convolutional Neural Network]()
+   4. [Convolutional Neural Network](https://www.coursera.org/account/accomplishments/verify/CNNEV7C7VJPP)
     
-   5. [Sequence Models]()
+   5. [Sequence Models](In Progress)
     
 
 Harvard 
