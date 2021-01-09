@@ -2,7 +2,7 @@
 I have completed some online certificates by different Universities. See Verified Certificates in the link provided
 
 
-Deeplearning : Sepecialization( Continues)
+Deeplearning : Sepecialization(of 5 courses Continues)
     
    1.  [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/BXQHNN8RD5KY)
     
