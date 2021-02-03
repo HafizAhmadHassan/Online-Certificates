@@ -13,7 +13,7 @@ Deeplearning : Sepecialization(of 5 courses Continues)
         
    4. [Convolutional Neural Network](https://www.coursera.org/account/accomplishments/verify/CNNEV7C7VJPP)
     
-   5. [Sequence Models](In Progress)
+   5. [Sequence Models](coursera.org/account/accomplishments/certificate/JS3ZYF36K4QS)
     
 
 Harvard 
